@@ -70,20 +70,14 @@ SciPy probability functions
 
 -Interactive dashboard
 
-Frontend built with:
-
-HTML
-
-CSS
-
-JavaScript
+Frontend built with: HTML, CSS, JavaScript
 
 Results are displayed as:
 
-probability scores
+-probability scores
 
-dynamic text explanations
+-dynamic text explanations
 
-plots (temperature trends, rainfall curves, extreme value distributions)
+-plots (temperature trends, rainfall curves, extreme value distributions)
 
-map-based visualization
+-map-based visualization
